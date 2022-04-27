@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/polycake/static/css/main.190c1b12.css",
+    "main.js": "/polycake/static/js/main.4a8d680e.js",
+    "static/js/787.ab6b280a.chunk.js": "/polycake/static/js/787.ab6b280a.chunk.js",
+    "static/media/doge.png": "/polycake/static/media/doge.d1b2495524512b1eba05.png",
+    "static/media/dog1.jfif": "/polycake/static/media/dog1.0813333dc2490fd08a96.jfif",
+    "static/media/a1.png": "/polycake/static/media/a1.6c013c628ca5d166989f.png",
+    "static/media/a3.png": "/polycake/static/media/a3.6c013c628ca5d166989f.png",
+    "static/media/telega.png": "/polycake/static/media/telega.14bedb331d876aabbe32.png",
+    "static/media/dog3.jfif": "/polycake/static/media/dog3.95c2b2f401b958dd4171.jfif",
+    "static/media/Pancake.jfif": "/polycake/static/media/Pancake.4bc2967a89d00b09771d.jfif",
+    "static/media/a2.png": "/polycake/static/media/a2.56c01246a7f1756490ad.png",
+    "static/media/a4.png": "/polycake/static/media/a4.56c01246a7f1756490ad.png",
+    "static/media/dog2.jfif": "/polycake/static/media/dog2.24491b5738716046ce26.jfif",
+    "index.html": "/polycake/index.html",
+    "main.190c1b12.css.map": "/polycake/static/css/main.190c1b12.css.map",
+    "main.4a8d680e.js.map": "/polycake/static/js/main.4a8d680e.js.map",
+    "787.ab6b280a.chunk.js.map": "/polycake/static/js/787.ab6b280a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.190c1b12.css",
+    "static/js/main.4a8d680e.js"
+  ]
+}
