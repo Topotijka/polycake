@@ -1,0 +1,48 @@
+html {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: -webkit-fill-available;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #F9F9F9;
+}
+
+.dropdown-toggle {
+  &--no-padding {
+
+  }
+
+  &--header {
+    text-decoration: none;
+    color: #FF8C00;
+  }
+}
+
+.header-tabs {
+  button {
+    width: 85%;
+    background-color: white;
+  }
+
+  > div {
+    &:first-child {
+      padding-left: 0;
+    }
+
+    &:last-child {
+      padding-right: 0;
+    }
+  }
+}
+.anone{
+  a{
+    text-decoration: none;
+    color: #FF8C00;
+  }
+}
